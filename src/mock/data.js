@@ -39,8 +39,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'GrabNGo.jpg',
     title: 'Grab n Go',
-    info: 'Two interacting mobile applications allowing students to view nearby food eateries and order food to pick up and a specified time, and to allow vendors to prepare their orders beforehand.',
-    info2: 'Built using Flutter and Firebase',
+    info: 'Two interacting mobile applications allowing students to view nearby food eateries, order food to pick up at a specified time, and to allow vendors to prepare their orders beforehand.',
+    info2: 'Built using Flutter, Firebase and NodeJS',
     url: 'https://github.com/davidliew9/Grab-N-Go-Students',
     //repo: 'https://github.com/davidliew9/Grab-N-Go-Students', // if no repo, the button will not show up
   },
